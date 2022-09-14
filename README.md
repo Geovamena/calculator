@@ -1,3 +1,3 @@
 # Calculator
 
-> [DEMO](https://calculator-geovannimena.netlify.app/)
+[DEMO](https://calculator-geovannimena.netlify.app/)
